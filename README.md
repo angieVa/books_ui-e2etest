@@ -1,1 +1,1 @@
-# books_ui-e2etest
+# books-ui-e2e-test
